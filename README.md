@@ -63,6 +63,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/CaiqueR/caique-shoes/blob/master/LICENSE.md) para saber mais.
+Este projeto esta sobe a licença MIT. Veja a [LICENÇA](https://github.com/CaiqueR/twitter/blob/master/LICENSE) para saber mais.
 
 Feito com ❤️ por Caique Ribeiro 👋🏽 [Entre em contato!](https://www.linkedin.com/in/caiquer/)
