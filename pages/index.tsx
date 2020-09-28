@@ -264,6 +264,7 @@ export default function Home() {
         </aside>
       </div>
 
+      <div className="margin" />
       <footer>
         <nav>
           <a href="">

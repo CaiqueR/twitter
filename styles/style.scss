@@ -595,6 +595,11 @@ $twitter: #3bb9e3;
   }
 }
 
+.margin {
+  @media (max-width: 37.5em) {
+    margin-top: 5em;
+  }
+}
 footer {
   @media (min-width: 37.5em) {
     display: none;
